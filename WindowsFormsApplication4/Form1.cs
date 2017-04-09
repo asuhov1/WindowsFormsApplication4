@@ -20,6 +20,7 @@ namespace WindowsFormsApplication4
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("2222");
+            MessageBox.Show("123");
         }
     }
 }
